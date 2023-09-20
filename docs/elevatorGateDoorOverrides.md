@@ -9,3 +9,7 @@ The "Gates" section allows for the opening and closing of the gates. To open or 
 
 NOTE: Selecting "Deactivate Procedure" will not produce the opposite command. For example, if the gate is open and the "Deactivate Procedure" is selected on the "OPEN"
 icon, the gate will not close. In this case,  the "Activate Procedure" would need to be selected on the "CLOSE" icon.
+
+### Door Alarm Silencing
+
+The "SILENCE DOOR ALARMS" section allows to silence door alarms by right-clicking the circle icon and selecting "Activate Procedure."
