@@ -5,3 +5,4 @@
 * [Securing Elevators](https://collabtime.github.io/axdocs/securingElevators)
 * [Gate and Door Overrides](https://collabtime.github.io/axdocs/gateDoorOverrides)
 * [Schedules](https://collabtime.github.io/axdocs/schedules)
+* [Event and Alarm Monitoring](https://collabtime.github.io/axdocs/eventAndAlarmMonitoring)
