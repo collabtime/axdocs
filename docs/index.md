@@ -13,4 +13,5 @@
 
 ### Access Control
 * [People & Cardholders](https://collabtime.github.io/axdocs/peopleAndCardholders)
+* [Batch People Creation and Import](https://collabtime.github.io/axdocs/batchPeopleCreationAndImport)
 * [Event and Alarm Monitoring](https://collabtime.github.io/axdocs/eventAndAlarmMonitoring)
