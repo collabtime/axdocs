@@ -12,4 +12,5 @@
 * [Elevator Access Levels](https://collabtime.github.io/axdocs/elevatorAccessLevels)
 
 ### Access Control
+* [People & Cardholders](https://collabtime.github.io/axdocs/peopleAndCardholders)
 * [Event and Alarm Monitoring](https://collabtime.github.io/axdocs/eventAndAlarmMonitoring)
