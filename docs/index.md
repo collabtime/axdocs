@@ -16,5 +16,5 @@
 * [Batch People Creation and Import](https://collabtime.github.io/axdocs/batchPeopleCreationAndImport)
 * [Using People Lists](https://collabtime.github.io/axdocs/usingPeopleLists)
 * [Event and Alarm Monitoring](https://collabtime.github.io/axdocs/eventAndAlarmMonitoring)
-* [Acknowledging Alarms](https://collabtime.github.io/axdocs/acknoledgingAlarms)
+* [Acknowledging Alarms](https://collabtime.github.io/axdocs/acknowledgingAlarms)
 * [Viewing Floorplans](https://collabtime.github.io/axdocs/viewingFloorplans)
